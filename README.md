@@ -21,6 +21,7 @@ If you want to chat, feel free to send me an email at Shoot me [an e-mail](mailt
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="40">
           
 <img align= "right" width= "250" src= "https://github.com/user-attachments/assets/695650bc-f5c8-44d3-b287-b335abb53ccb"/>
 </div>
